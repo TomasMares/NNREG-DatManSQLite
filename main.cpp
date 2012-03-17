@@ -26,6 +26,7 @@ string testRow15("combAtan");
 string testRow16("floorOSum");
 string testRow17("sumOFloor");
 //tr & val restricts
+string sqrestrict("samp = 'AE'");
 string sqrestrict("samp = 'SRCC'");
 string strict2("samp = 'RAND' AND (id BETWEEN 81 AND 90)");
 //test restricts
